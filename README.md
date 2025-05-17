@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/ONLIMIT-T
 ## ✨ Features
 
 ### 🚗 Free Gamepass
-- **Disable Jumping**: Prevents your character from jumping while in the vehicle, ensuring better stability and control.
+- **Disable Jumping**: Prevents your character from jumping while in the vehicle.
 
 ### ⚡ Customizable Interface
 - The **menu interface** is fully configurable, with a dark theme and adjustable options such as window size.
@@ -20,12 +20,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScriptX/ONLIMIT-T
 ### ⚙️ Customizable Settings
 - Options to enable/disable jumping, adjusting your character's **jump power** and **jump height**.
 - Saves user settings through **SaveManager**, so you don’t have to reconfigure every time you start the game.
-
----
-
-## 🎮 Game Link
-
-https://www.roblox.com/es/games/11568475214/MUSIC-CODES-UPDATE-ONLIMIT-TRUCKIN
 
 ---
 
@@ -45,6 +39,12 @@ https://www.roblox.com/es/games/11568475214/MUSIC-CODES-UPDATE-ONLIMIT-TRUCKIN
 ## 📂 Configuration Files
 
 The script allows you to automatically save and load user configurations, ensuring your preferences are retained between sessions.
+
+---
+
+## 🎮 Game Link
+
+https://www.roblox.com/es/games/11568475214/MUSIC-CODES-UPDATE-ONLIMIT-TRUCKIN
 
 ---
 
